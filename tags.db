@@ -8,6 +8,7 @@
 {"name":"sp","_id":"Ho1asjXWEK78TKfE"}
 {"name":"aggregations","_id":"NS8vbLW1CLVts6VD"}
 {"name":"aggregate","_id":"NmBbnWk2XQ54zovX"}
+{"name":"capitalize","_id":"QROSzI5nc2XEdvnz"}
 {"name":"filter","_id":"RhzmgVmV1RYxdD6a"}
 {"name":"lookup","_id":"Ue8nyI1bwSGjWH0d"}
 {"name":"datetime","_id":"VYs0apu6pr0uE0TJ"}
@@ -18,9 +19,10 @@
 {"name":"post","_id":"pbnwIzIFdVwSOCm0"}
 {"name":"keyup","_id":"r5UZluFlUWOMzWkx"}
 {"name":"ascii","_id":"rBD9zTvNS0tgqhna"}
+{"name":"regx","_id":"rCRrwXoIXdXqZRHb"}
 {"name":"pene","_id":"rirXDrWDIW6LttAI"}
 {"name":"postgis","_id":"uIGA7bA5k1Nb1Ksa"}
 {"name":"react","_id":"zFAttbknrdYoKkmt"}
 {"name":"hexadecimal","_id":"zPKqcjdDMQZ5c0pb"}
-{"name":"capitalize","_id":"QROSzI5nc2XEdvnz"}
-{"name":"regx","_id":"rCRrwXoIXdXqZRHb"}
+{"name":"sha","_id":"gskskcQdK4XqXLMg"}
+{"name":"crypto","_id":"eWByeqJ2u9fHIWtm"}
