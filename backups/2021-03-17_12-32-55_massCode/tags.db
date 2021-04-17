@@ -1,6 +1,5 @@
 {"name":"mongodb","_id":"3TnR5Obhd1zDNTa6"}
 {"name":"timeout","_id":"6aj1XwtZUHVrGd3L"}
-{"name":"export","_id":"74qkL2cjdgvaHwbl"}
 {"name":"html","_id":"7buKtbQ4an9TUkQI"}
 {"name":"ssh","_id":"9BedGv2gHoC5ElVq"}
 {"name":"scp","_id":"AT6Xi4j4PbqTmua0"}
@@ -18,7 +17,6 @@
 {"name":"date","_id":"ecE308IHzgHKfkX6"}
 {"name":"json","_id":"gqwiN6q2rBxkovSg"}
 {"name":"sha","_id":"gskskcQdK4XqXLMg"}
-{"name":"exel","_id":"kEZ5YPGHXyqqyPjD"}
 {"name":"hack","_id":"kci94lWkOIsXaUXZ"}
 {"name":"post","_id":"pbnwIzIFdVwSOCm0"}
 {"name":"keyup","_id":"r5UZluFlUWOMzWkx"}
@@ -26,9 +24,5 @@
 {"name":"regx","_id":"rCRrwXoIXdXqZRHb"}
 {"name":"pene","_id":"rirXDrWDIW6LttAI"}
 {"name":"postgis","_id":"uIGA7bA5k1Nb1Ksa"}
-{"name":"csv","_id":"wL1Hy2BmOXWRCIdr"}
-{"name":"rng","_id":"wyPGFt9TANlhyhOp"}
 {"name":"react","_id":"zFAttbknrdYoKkmt"}
 {"name":"hexadecimal","_id":"zPKqcjdDMQZ5c0pb"}
-{"name":"MySQL","_id":"V2aEjugxE8KEQ2mW"}
-{"name":"Postgres","_id":"2RMhqyFv5qhUz6v8"}
